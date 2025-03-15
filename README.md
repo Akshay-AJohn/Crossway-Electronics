@@ -11,9 +11,8 @@ Crossway Electronics is an e-commerce company founded in 2018 that sells consume
 ## Sales Trends
 <div align="center">
   <img src="Github image1.jpeg" alt="The overarcher" width="600">
-</div>
-<div align="center">
-  <img src="image4.png" alt="The overarcher" width="600">
+</div> <div align="center">
+  <img src="image4.png" alt="The overarcher" width="50%"><img src="image3.png" alt="The overarcher" width="50%">
 </div>
 
 
@@ -27,6 +26,12 @@ Crossway Electronics is an e-commerce company founded in 2018 that sells consume
 * Q1 2020 and Q4 2020: Strong growth, with sales reaching up to $3M.
 * 2021: Sales initially high but started declining in Q3 and Q4.
 * 2022: Consistent decline across all quarters, with a dramatic drop in Q4, nearing $600K.
+
+**Yearly Comparision**
+* 2019: Lowest order volume at 16,850 orders.
+* 2020: A significant increase to 33,851 orders, showing a 100%+ growth.
+* 2021: Slight growth to 35,858 orders, showing consistency from the previous year.
+* 2022: Significant drop to 21,565 orders, showing a 40% decline from 2021.
 
 ## Seasonal Trends
 <div align="center">
