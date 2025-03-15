@@ -9,3 +9,31 @@ Crossway Electronics is an e-commerce company founded in 2018 that sells consume
 * Off-peak months: February and October consistently show negative growth, suggesting that the business may need to address slower seasons with targeted marketing or product launches to counteract dips.
 
 ## Sales Trends
+<div align="center">
+  <img src="Github image1.jpeg" alt="The overarcher" width="600">
+</div>
+<div align="center">
+  <img src="image4.png" alt="The overarcher" width="600">
+</div>
+
+
+**Overall Trend**: There is a significant variation in sales growth over the years. <br>
+* 2019: Growth rate of 163%, indicating strong performance during this year.
+* 2020: A slight negative growth of -10%, showing a dip in sales.
+* 2021: A significant decline of -46%, indicating a major drop in sales performance.
+* 2022: A drastic decrease with -100%, showing no sales growth or a complete loss in this year.
+
+**Quarterly Trends:**
+* Q1 2020 and Q4 2020: Strong growth, with sales reaching up to $3M.
+* 2021: Sales initially high but started declining in Q3 and Q4.
+* 2022: Consistent decline across all quarters, with a dramatic drop in Q4, nearing $600K.
+
+## Seasonal Trends
+<div align="center">
+  <img src="image2.png" alt="The overarcher" width="600">
+</div>
+
+**Overall Seasonality**: There is a noticeable fluctuation in monthly sales trends.
+* March, November, and December: High positive sales growth, especially in December (over 20%).
+* February, October, and June: Significant negative growth, especially in February and October (greater than -20%).
+* Other months: Minor fluctuations with mostly positive trends in spring and fall months.
