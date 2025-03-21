@@ -43,3 +43,38 @@ Crossway Electronics is an e-commerce company founded in 2018 that sells consume
 * March, November, and December: High positive sales growth, especially in December (over 20%).
 * February, October, and June: Significant negative growth, especially in February and October (greater than -20%).
 * Other months: Minor fluctuations with mostly positive trends in spring and fall months.
+
+
+## Product Analysis
+<div align="center">
+  <img src="total sales.png" alt="Product Sales" width="30%"> <img src="order count.png" alt="Product Orders" width="30%">
+</div>
+
+- The **Gaming Monitor, Apple Airpods, Macbook Air, and Thinkpad Laptop** were the highest earning products earning **more than 95% of sales**.
+- The Apple Airpods were the most popular product overall with almost 50,000 orders which is double the next most popular product. The Samsung Chargepack was another notably popular product, but its smaller pricepoint meant that it did not contribute as much in sales.
+- Compared to the other Apple products, the iPhones lacked substantially accounting for less than 1% of overall sales and orders.
+- Purchases across most products occured on the **website earning $27 Million** over the four years compared to just **$800,000 on mobile**.
+- The majority of orders attribute "direct" marketing as the main contributor to the sale which accounted for **$23 million**. "Email" was the second with over $3 million.
+- The Bose Soundsport Headphones has contradicting performance to the above with all orders occurring on mobile and attributed to email marketing.
+
+## Loyalty Program
+<div align="center">
+  <img src="Loyalty.png" alt="Loyalty Program Share of Sales" width="80%">
+</div>
+
+Loyalty Program grew significantly with the COVID bump. It accounted for more than half of orders by 2021, but stagnated ever since.
+
+Guest Checkouts seem largely responsible for the boom in AOV in 2020 spending more per sale than loyalty members. After the boom, however, loyalty program members spend more on average than guest checkout. 
+
+**Should Apollo continue the loyalty program?**
+
+The loyalty program has improved over time, climbing in AOV through the years and accounting for roughly half of sales in 2021 and 2022. Ultimately, there is no reason to remove the loyalty program at this point.
+
+## Regional Analysis
+North America accounted for half of sales and orders with EMEA (29%), APAC (12%) and LATAM (7%) accounting for the rest. All regions followed the same general trend lines for sales and orders.
+
+ ## Recommendations:
+ The pandemic bump was drastic and Apollo was not able to sustain its growth, but a few opportunities could help the company push for the future.
+ 
+- There have been no new product offerings introduced into the lineup since the Beats Soundsport Headphones and the Samsung Webcam in 2020. Laptops contribute to high sales dollars but highly priced items also have the highest return rates. The Apple Airpods were excellent performers given their relatively low return rates and high sales contributions.
+- The Loyalty Program has been showing signs of improvement in 2022. Continuing the program would allow us to collect more data.
