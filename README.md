@@ -66,7 +66,7 @@ Loyalty Program grew significantly with the COVID bump. It accounted for more th
 
 Guest Checkouts seem largely responsible for the boom in AOV in 2020 spending more per sale than loyalty members. After the boom, however, loyalty program members spend more on average than guest checkout. 
 
-**Should Apollo continue the loyalty program?**
+**Should Crossway continue the loyalty program?**
 
 The loyalty program has improved over time, climbing in AOV through the years and accounting for roughly half of sales in 2021 and 2022. Ultimately, there is no reason to remove the loyalty program at this point.
 
@@ -74,7 +74,7 @@ The loyalty program has improved over time, climbing in AOV through the years an
 North America accounted for half of sales and orders with EMEA (29%), APAC (12%) and LATAM (7%) accounting for the rest. All regions followed the same general trend lines for sales and orders.
 
  ## Recommendations:
- The pandemic bump was drastic and Apollo was not able to sustain its growth, but a few opportunities could help the company push for the future.
+ The pandemic bump was drastic and Crossway was not able to sustain its growth, but a few opportunities could help the company push for the future.
  
 - There have been no new product offerings introduced into the lineup since the Beats Soundsport Headphones and the Samsung Webcam in 2020. Laptops contribute to high sales dollars but highly priced items also have the highest return rates. The Apple Airpods were excellent performers given their relatively low return rates and high sales contributions.
 - The Loyalty Program has been showing signs of improvement in 2022. Continuing the program would allow us to collect more data.
